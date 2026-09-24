@@ -1,0 +1,15 @@
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\bin\Debug\net9.0\ServerConfigProgram.exe
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\bin\Debug\net9.0\ServerConfigProgram.deps.json
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\bin\Debug\net9.0\ServerConfigProgram.runtimeconfig.json
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\bin\Debug\net9.0\ServerConfigProgram.dll
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\bin\Debug\net9.0\ServerConfigProgram.pdb
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\obj\Debug\net9.0\ServerConfigProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\obj\Debug\net9.0\ServerConfigProgram.AssemblyInfoInputs.cache
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\obj\Debug\net9.0\ServerConfigProgram.AssemblyInfo.cs
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\obj\Debug\net9.0\ServerConfigProgram.csproj.CoreCompileInputs.cache
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\obj\Debug\net9.0\ServerConfigProgram.sourcelink.json
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\obj\Debug\net9.0\ServerConfigProgram.dll
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\obj\Debug\net9.0\refint\ServerConfigProgram.dll
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\obj\Debug\net9.0\ServerConfigProgram.pdb
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\obj\Debug\net9.0\ServerConfigProgram.genruntimeconfig.cache
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\obj\Debug\net9.0\ref\ServerConfigProgram.dll
