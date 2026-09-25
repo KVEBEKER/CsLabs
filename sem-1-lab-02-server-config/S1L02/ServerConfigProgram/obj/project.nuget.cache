@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "hyPrYVVQGh0=",
+  "dgSpecHash": "PfaqczT7yGc=",
   "success": true,
   "projectFilePath": "D:\\GitHubProjects\\CsLabs\\sem-1-lab-02-server-config\\S1L02\\ServerConfigProgram\\ServerConfigProgram.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ДенисБек\\.nuget\\packages\\system.codedom\\10.0.12\\system.codedom.10.0.12.nupkg.sha512",
+    "C:\\Users\\ДенисБек\\.nuget\\packages\\system.management\\10.0.12\\system.management.10.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -13,3 +13,8 @@ D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\ob
 D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\obj\Debug\net9.0\ServerConfigProgram.pdb
 D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\obj\Debug\net9.0\ServerConfigProgram.genruntimeconfig.cache
 D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\obj\Debug\net9.0\ref\ServerConfigProgram.dll
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\bin\Debug\net9.0\System.CodeDom.dll
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\bin\Debug\net9.0\System.Management.dll
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Management.dll
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\obj\Debug\net9.0\ServerConfigProgram.csproj.AssemblyReference.cache
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram\obj\Debug\net9.0\ServerCo.3A98B601.Up2Date

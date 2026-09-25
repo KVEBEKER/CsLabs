@@ -105,3 +105,6 @@ D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram.Te
 D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram.Tests\obj\Debug\net9.0\ServerConfigProgram.Tests.pdb
 D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram.Tests\obj\Debug\net9.0\ServerConfigProgram.Tests.genruntimeconfig.cache
 D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram.Tests\obj\Debug\net9.0\ref\ServerConfigProgram.Tests.dll
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram.Tests\bin\Debug\net9.0\System.CodeDom.dll
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram.Tests\bin\Debug\net9.0\System.Management.dll
+D:\GitHubProjects\CsLabs\sem-1-lab-02-server-config\S1L02\ServerConfigProgram.Tests\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Management.dll
