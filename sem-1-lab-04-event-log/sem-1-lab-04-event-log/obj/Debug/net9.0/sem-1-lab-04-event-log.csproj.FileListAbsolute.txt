@@ -1,0 +1,15 @@
+D:\GitHubProjects\CsLabs\sem-1-lab-04-event-log\sem-1-lab-04-event-log\obj\Debug\net9.0\sem-1-lab-04-event-log.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubProjects\CsLabs\sem-1-lab-04-event-log\sem-1-lab-04-event-log\obj\Debug\net9.0\sem-1-lab-04-event-log.AssemblyInfoInputs.cache
+D:\GitHubProjects\CsLabs\sem-1-lab-04-event-log\sem-1-lab-04-event-log\obj\Debug\net9.0\sem-1-lab-04-event-log.AssemblyInfo.cs
+D:\GitHubProjects\CsLabs\sem-1-lab-04-event-log\sem-1-lab-04-event-log\obj\Debug\net9.0\sem-1-lab-04-event-log.csproj.CoreCompileInputs.cache
+D:\GitHubProjects\CsLabs\sem-1-lab-04-event-log\sem-1-lab-04-event-log\obj\Debug\net9.0\sem-1-lab-04-event-log.sourcelink.json
+D:\GitHubProjects\CsLabs\sem-1-lab-04-event-log\sem-1-lab-04-event-log\bin\Debug\net9.0\sem-1-lab-04-event-log.exe
+D:\GitHubProjects\CsLabs\sem-1-lab-04-event-log\sem-1-lab-04-event-log\bin\Debug\net9.0\sem-1-lab-04-event-log.deps.json
+D:\GitHubProjects\CsLabs\sem-1-lab-04-event-log\sem-1-lab-04-event-log\bin\Debug\net9.0\sem-1-lab-04-event-log.runtimeconfig.json
+D:\GitHubProjects\CsLabs\sem-1-lab-04-event-log\sem-1-lab-04-event-log\bin\Debug\net9.0\sem-1-lab-04-event-log.dll
+D:\GitHubProjects\CsLabs\sem-1-lab-04-event-log\sem-1-lab-04-event-log\bin\Debug\net9.0\sem-1-lab-04-event-log.pdb
+D:\GitHubProjects\CsLabs\sem-1-lab-04-event-log\sem-1-lab-04-event-log\obj\Debug\net9.0\sem-1-lab-04-event-log.dll
+D:\GitHubProjects\CsLabs\sem-1-lab-04-event-log\sem-1-lab-04-event-log\obj\Debug\net9.0\refint\sem-1-lab-04-event-log.dll
+D:\GitHubProjects\CsLabs\sem-1-lab-04-event-log\sem-1-lab-04-event-log\obj\Debug\net9.0\sem-1-lab-04-event-log.pdb
+D:\GitHubProjects\CsLabs\sem-1-lab-04-event-log\sem-1-lab-04-event-log\obj\Debug\net9.0\sem-1-lab-04-event-log.genruntimeconfig.cache
+D:\GitHubProjects\CsLabs\sem-1-lab-04-event-log\sem-1-lab-04-event-log\obj\Debug\net9.0\ref\sem-1-lab-04-event-log.dll
