@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37628.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sem-1-lab-05-save-manager", "sem-1-lab-05-save-manager\sem-1-lab-05-save-manager.csproj", "{AFF49AC0-C9CB-4924-8F4C-733A9BD5AA1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sem-1-lab-05-tests", "sem-1-lab-05-tests\sem-1-lab-05-tests.csproj", "{1B88AAB9-D68E-471F-B266-8658D12446E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFF49AC0-C9CB-4924-8F4C-733A9BD5AA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF49AC0-C9CB-4924-8F4C-733A9BD5AA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF49AC0-C9CB-4924-8F4C-733A9BD5AA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF49AC0-C9CB-4924-8F4C-733A9BD5AA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B88AAB9-D68E-471F-B266-8658D12446E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B88AAB9-D68E-471F-B266-8658D12446E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B88AAB9-D68E-471F-B266-8658D12446E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B88AAB9-D68E-471F-B266-8658D12446E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A2B9D7A-5FE0-40F6-B3B5-D8020B7B85CF}
+	EndGlobalSection
+EndGlobal
