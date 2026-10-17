@@ -8,7 +8,7 @@ namespace sem_1_lab_05_save_manager.models
 {
     public class SaveLog
     {
-        public DateTime makeAt {  get; set; }
+        public DateTime makeAt { get; set; }
         public string name { get; set; }
         public string operation { get; set; }
     }

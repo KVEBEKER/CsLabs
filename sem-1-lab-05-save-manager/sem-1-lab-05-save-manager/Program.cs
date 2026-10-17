@@ -70,7 +70,7 @@ namespace sem_1_lab_05_save_manager
             SaveEntry? entry = entries.Find(x => x.name == name.ToLower());
             if (entry == null)
             {
-                return new SaveEntry();
+                return null;
             }
             return entry;
         }
@@ -119,7 +119,7 @@ namespace sem_1_lab_05_save_manager
             }
             entries.Remove(entry);
             string newJson = JsonConvert.SerializeObject(entries, Formatting.Indented);
-            File.WriteAllText(saveDirectory, newJson);
+            File.WriteAllText(indexPath, newJson);
         }
 
         private static void PrintSaveList(List<SaveEntry> entries)
