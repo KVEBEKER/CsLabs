@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37628.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab-1-sem-06-server-monitoring-in-real-time", "lab-1-sem-06-server-monitoring-in-real-time\lab-1-sem-06-server-monitoring-in-real-time.csproj", "{1EAAADE5-BB7E-464F-A15B-1B4AD591455E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab-1-sem-06-tests", "lab-1-sem-06-tests\lab-1-sem-06-tests.csproj", "{13091C2E-3AEA-47B6-8E88-A9B0FCE88B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EAAADE5-BB7E-464F-A15B-1B4AD591455E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAAADE5-BB7E-464F-A15B-1B4AD591455E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAAADE5-BB7E-464F-A15B-1B4AD591455E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAAADE5-BB7E-464F-A15B-1B4AD591455E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13091C2E-3AEA-47B6-8E88-A9B0FCE88B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13091C2E-3AEA-47B6-8E88-A9B0FCE88B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13091C2E-3AEA-47B6-8E88-A9B0FCE88B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13091C2E-3AEA-47B6-8E88-A9B0FCE88B08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {828F1030-97C3-43BD-B3BD-F2FB33AE852C}
+	EndGlobalSection
+EndGlobal
