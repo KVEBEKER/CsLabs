@@ -8,13 +8,14 @@ namespace sem_1_lab_07_tests
         [SetUp]
         public void Setup()
         {
+            TreeBuilder.ReadTreeText("tree.txt");
         }
 
         [Test]
-        public void BuildTree_PreservesNesting()
+        public void BuildTree_CountReadingLines()
         {
-            var tree = TreeBuilder.Build(File.ReadAllLines("tree.txt"));
-            Assert.That(tree.Children[0].Children[0].Name, Is.EqualTo("C"));
+            var treePassedLines = TreeBuilder.PrintTree(0);
+            Assert.That(treePassedLines, Is.EqualTo(9));
         }
     }
 }
