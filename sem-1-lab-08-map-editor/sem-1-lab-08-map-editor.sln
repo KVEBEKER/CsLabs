@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37628.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sem-1-lab-08-map-editor", "sem-1-lab-08-map-editor\sem-1-lab-08-map-editor.csproj", "{A3DDD2B6-5F07-470E-9FA3-423373EEBA85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sem-1-lab-08-tests", "sem-1-lab-08-tests\sem-1-lab-08-tests.csproj", "{5172B1F8-A24F-47AD-9547-5E5EDBC8A11F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3DDD2B6-5F07-470E-9FA3-423373EEBA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DDD2B6-5F07-470E-9FA3-423373EEBA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DDD2B6-5F07-470E-9FA3-423373EEBA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DDD2B6-5F07-470E-9FA3-423373EEBA85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5172B1F8-A24F-47AD-9547-5E5EDBC8A11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5172B1F8-A24F-47AD-9547-5E5EDBC8A11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5172B1F8-A24F-47AD-9547-5E5EDBC8A11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5172B1F8-A24F-47AD-9547-5E5EDBC8A11F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1798B766-44F8-44E0-83CC-9F0D89BB9DDB}
+	EndGlobalSection
+EndGlobal
