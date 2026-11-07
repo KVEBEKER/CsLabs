@@ -9,24 +9,24 @@ namespace sem_1_lab_05_save_manager
         const string IndexDirectory = "./index.json";
         const string SaveDirectory = "./saves";
         const string BackupDirectory = "./backups";
-        const string LogDirectory = "./logs.json";
-        public static void addLogLine(string logDirectory, string fileName, string operation)
-        {
-            if (!File.Exists(logDirectory))
-            {
-                string empty = "";
-                File.WriteAllText(logDirectory, empty);
-            }
-            string json = File.ReadAllText(logDirectory);
-            List<SaveLog> logs = JsonConvert.DeserializeObject<List<SaveLog>>(json);
-            SaveLog newLog = new SaveLog();
-            newLog.makeAt = DateTime.Now;
-            newLog.name = fileName;
-            newLog.operation = operation;
-            logs.Add(newLog);
-            string newJson = JsonConvert.SerializeObject(logs, Formatting.Indented);
-            File.WriteAllText(logDirectory, newJson);
-        }
+        //const string LogDirectory = "./logs.json";
+        //public static void addLogLine(string logDirectory, string fileName, string operation)
+        //{
+        //    if (!File.Exists(logDirectory))
+        //    {
+        //        string empty = "";
+        //        File.WriteAllText(logDirectory, empty);
+        //    }
+        //    string json = File.ReadAllText(logDirectory);
+        //    List<SaveLog> logs = JsonConvert.DeserializeObject<List<SaveLog>>(json);
+        //    SaveLog newLog = new SaveLog();
+        //    newLog.makeAt = DateTime.Now;
+        //    newLog.name = fileName;
+        //    newLog.operation = operation;
+        //    logs.Add(newLog);
+        //    string newJson = JsonConvert.SerializeObject(logs, Formatting.Indented);
+        //    File.WriteAllText(logDirectory, newJson);
+        //}
 
         public static List<SaveEntry> LoadIndex(string indexPath)
         {
@@ -178,7 +178,7 @@ namespace sem_1_lab_05_save_manager
                         Console.WriteLine("0. Выйти.");
                         if (int.TryParse(Console.ReadLine(), out subOption))
                         {
-                            switch (option)
+                            switch (subOption)
                             {
                                 case 1:
                                     data.Character = ChangeCharacterName(data.Character);
@@ -414,7 +414,6 @@ namespace sem_1_lab_05_save_manager
                         case 3:
                             Console.Clear();
                             ChangeAndSave(entries);
-                            Console.ReadKey();
                             break;
                         case 4:
                             Console.Clear();
