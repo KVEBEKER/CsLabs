@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
-    <RootNamespace>lab_1_sem_06_tests</RootNamespace>
+    <RootNamespace>sem_1_lab_06_tests</RootNamespace>
     <LangVersion>latest</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\lab-1-sem-06-server-monitoring-in-real-time\lab-1-sem-06-server-monitoring-in-real-time.csproj" />
+    <ProjectReference Include="..\lab-1-sem-06-server-monitoring-in-real-time\sem-1-lab-06-server-monitoring-in-real-time.csproj" />
   </ItemGroup>
 
   <ItemGroup>
