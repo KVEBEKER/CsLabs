@@ -7,10 +7,11 @@ using System.Threading.Tasks;
 namespace sem_1_lab_08_map_editor.models
 {
     /// <summary>
-    /// # - "WALL"
-    /// . - "GROUND"
-    /// W - "WATER"
-    /// ^ - "LAVA"
+    /// Клетки для карты. Его типы:
+    /// '#' - "WALL"
+    /// '.' - "GROUND"
+    /// 'W' - "WATER"
+    /// '^' - "LAVA"
     /// </summary>
     public class Cell
     {

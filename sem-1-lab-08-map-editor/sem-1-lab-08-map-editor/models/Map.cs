@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace sem_1_lab_08_map_editor.models
 {
+    /// <summary>
+    /// Класс карты.
+    /// </summary>
     public class Map
     {
         //Собственно карта.
@@ -25,13 +28,13 @@ namespace sem_1_lab_08_map_editor.models
         }
 
         /// <summary>
-        /// 
+        /// Достает из файла строки и форматирует их в карту.
         /// </summary>
-        /// <param name="dir"></param>
-        /// <returns></returns>
-        /// <exception cref="FileNotFoundException"></exception>
-        /// <exception cref="FormatException"></exception>
-        /// <exception cref="ArgumentNullException"></exception>
+        /// <param name="dir">Путь к файлу.</param>
+        /// <returns>Карту.</returns>
+        /// <exception cref="FileNotFoundException">Файл не найден.</exception>
+        /// <exception cref="FormatException">Файл не корректен и из него нельзя сделать карту.</exception>
+        /// <exception cref="ArgumentNullException">Игрока на карте файле нету.</exception>
         public static Map Load(string dir)
         {
             //
@@ -88,7 +91,7 @@ namespace sem_1_lab_08_map_editor.models
         }
 
         /// <summary>
-        /// 
+        /// Переводит карту в строки для последующего сохранения через File.WriteAllLines().
         /// </summary>
         /// <param name="map">Карту, которую хотите сохранить.</param>
         /// <returns>Строки сформатированной карты.</returns>
@@ -135,18 +138,18 @@ namespace sem_1_lab_08_map_editor.models
         }
 
         /// <summary>
-        /// 
+        /// Создает копию карты
         /// </summary>
-        /// <returns></returns>
+        /// <returns>Карта.</returns>
         public Map CreateSnapshot()
         {
             return this;
         }
 
         /// <summary>
-        /// 
+        /// Перезаписывает карту.
         /// </summary>
-        /// <param name="map"></param>
+        /// <param name="map">Карта с которой переписывают карту.</param>
         public void Restore(Map map)
         {
             this.Field = map.Field;
