@@ -164,8 +164,8 @@ namespace sem_1_lab_05_save_manager
                 {
                     SaveEntry entry = entries[option - 1];
                     SaveData data = LoadSave(SaveDirectory, entry);
-                    bool cycle = true;
-                    while (cycle)
+                    bool subCycle = true;
+                    while (subCycle)
                     {
                         Console.Clear();
                         PrintSave(entry, data);
@@ -190,12 +190,12 @@ namespace sem_1_lab_05_save_manager
                                     data.Health = ChangeCharacterHealth(data.Health);
                                     break;
                                 case 4:
-                                    cycle = false;
+                                    subCycle = false;
                                     SaveGame(SaveDirectory, entry, data);
                                     Console.WriteLine("Изменения сохранены");
                                     break;
                                 case 0:
-                                    cycle = false;
+                                    subCycle = false;
                                     break;
                             }
                         }
